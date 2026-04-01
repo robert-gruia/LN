@@ -2,6 +2,9 @@
 
 Le Accademie e l'esercito non si basano su valutazioni soggettive, ma su una misurazione algoritmica oggettiva effettuata in tempo reale durante i combattimenti e gli esami. Questa misurazione è affidata a specifici esaminatori, chiamati "Custodi Sensoriali", presenti fisicamente sul campo di battaglia. A questi esaminatori è severamente vietato intervenire nello scontro, e ai lottatori è assolutamente vietato attaccarli. I Custodi utilizzano specifici Sigilli di Valutazione e abilità fisiche/sensoriali aggiuntive adatte a registrare in modo imparziale e preciso i dati dello scontro, senza interferire con l'energia dei partecipanti.
 
+I Custodi Sensoriali sono presenti a qualsiasi missione studentesca proprio per misurare i parametri E.I.S.A.. Ad ogni squadra vengono assegnati 2 e sono vestiti con delle vesti bianche e azzurre(il protagonista gli compara a dei maghi di D&D).
+
+
 
 #### L'Algoritmo E.I.S.A. 
 
@@ -14,6 +17,8 @@ Per garantire un sistema leale anche per chi non possiede maledizioni o poteri d
 - S ([[Sigilli]]): Calcola la velocità di creazione, l'efficienza energetica e la complessità dei sigilli utilizzati.
     
 - A (Abilità Aggiuntive innate): Fattore di bilanciamento che valuta i tratti unici. Per le persone normali, premia caratteristiche come riflessi disumani o arti marziali estreme. Per le persone maledette, valuta la capacità di controllare la maledizione e sfruttarne i tratti fisici passivi (come la rigenerazione tramite energia) traendone un vantaggio pratico e sicuro.    
+
+Questo algoritmo viene misurato automaticamente attraverso dei sigilli di grado 9 che prendono dati in tempo reale su ogni membro della squadra. Piu dati vengono raccolti, piu precisa è la misurazione.
 
 
 #### Il Moltiplicatore di Stabilità Mentale (M) 
