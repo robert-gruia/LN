@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LN/Storia/Parte 2/6.md",
+                "file": "LN/Storia/Main Book/Parte 2/6.md",
                 "mode": "source",
                 "source": false
               },
@@ -183,15 +183,20 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "bbe37f74561b5aef",
+  "active": "69a1e8171fd738e5",
   "lastOpenFiles": [
-    "LN/Storia/Parte 1/5.md",
-    "LN/Storia/Parte 1/4.md",
-    "LN/Storia/Parte 1/3.md",
-    "LN/Storia/Parte 1/2.md",
-    "LN/Storia/Parte 1/1.md",
-    "LN/Storia/Parte 2/6.md",
-    "LN/Storia/Parte 2",
+    "LN/Storia/Book Kayla/TBD.md",
+    "LN/Storia/Main Book/Parte 1/Diari di missione/TBD.md",
+    "LN/Storia/Book Kayla",
+    "LN/Storia/Main Book",
+    "LN/Storia/Main Book/Parte 2/6.md",
+    "LN/Storia/Main Book/Parte 1/Diari di missione",
+    "LN/Storia/Main Book/Parte 1/5.md",
+    "LN/Storia/Main Book/Parte 1/4.md",
+    "LN/Storia/Main Book/Parte 1/3.md",
+    "LN/Storia/Main Book/Parte 1/2.md",
+    "LN/Storia/Main Book/Parte 1/1.md",
+    "LN/Storia/Main Book/Parte 2",
     "LN/Storia/Parte 1/Scaletta.md",
     "LN/Power System/Algoritmo E.I.S.A..md"
   ]
