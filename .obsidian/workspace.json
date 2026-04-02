@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LN/Storia/Parte 1/4.md",
+                "file": "LN/Storia/Parte 2/6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4"
+              "title": "6"
             }
           }
         ]
@@ -183,13 +183,16 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "69a1e8171fd738e5",
+  "active": "bbe37f74561b5aef",
   "lastOpenFiles": [
     "LN/Storia/Parte 1/5.md",
     "LN/Storia/Parte 1/4.md",
     "LN/Storia/Parte 1/3.md",
-    "LN/Power System/Algoritmo E.I.S.A..md",
     "LN/Storia/Parte 1/2.md",
-    "LN/Storia/Parte 1/1.md"
+    "LN/Storia/Parte 1/1.md",
+    "LN/Storia/Parte 2/6.md",
+    "LN/Storia/Parte 2",
+    "LN/Storia/Parte 1/Scaletta.md",
+    "LN/Power System/Algoritmo E.I.S.A..md"
   ]
 }
