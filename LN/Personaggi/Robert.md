@@ -2,7 +2,7 @@
 #### **Tecniche innate rivelate**:
 
 ##### **Manipolazione dei sigilli**: 
-Capacità di disegnare sigilli di ogni complessità in pochissimo tempo siccome offre la possibilità di disegnarli usando tutte e 10 le dita e non 1 o 2 dita standard delle persone normali(questo avviene attraverso dei fasci di luce rossa che gli escono dalle dita). Può copiare e incollare sigilli inizialmente disegnati. Può disegnare sigilli in aria(solitamente fisicamente impossibile). Può cancellare tutti i sigilli che comprende attraverso la Cancellazione Assoluta.
+Capacità di disegnare sigilli di ogni complessità in pochissimo tempo siccome offre la possibilità di disegnarli usando tutte e 10 le dita e non 1 o 2 dita standard delle persone normali(questo avviene attraverso dei fasci di luce rossa che gli escono dalle dita). Può copiare e incollare sigilli inizialmente disegnati. Può disegnare sigilli in aria(solitamente fisicamente impossibile). Può cancellare tutti i sigilli che comprende attraverso la Cancellazione Assoluta. Può proiettare ologrammi di sigilli per studiarli e analizzarli attraverso la Proiezione.
 
 Dopo i consigli di Velia la tecnica gli permette di disegnare sigilli con la mente. Robert impara anche a disegnare i sigilli nel modo 'artistico' di Velia. Quei sigilli possono essere creati da tutti se scoprono il come, solo che Robert con la tecnica li può fare di scala assurda e a velocità assurde.
 NOTA: È la tecnica più complessa da usare nella serie, Robert ha speso anni per riuscire solo ad usarla bene.

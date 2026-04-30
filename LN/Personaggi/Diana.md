@@ -22,4 +22,4 @@ Guanti in oricalco forgiati da Maya comprati a Trieste sotto consiglio di Robert
 	+ Lot(amica, collega insegnante)
 	+ William(amico, collega insegnante)
 	+ Stefania(amica, collega insegnante)
-	+ Aris(conoscienza, superiore dell'Accademia)
+	+ Aris(conoscenza, superiore dell'Accademia)
