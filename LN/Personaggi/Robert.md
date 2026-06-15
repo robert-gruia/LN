@@ -28,6 +28,11 @@ Un sigillo sull'anima di Circolo 10 che gli permette di sincronizzare le sue 2 p
 ##### Soul Reforge:
 Un sigillo sull'anima che sostituisce il Soul Sync. Permette a Robert di 'riforgiarsi' l'anima e permette l'utilizzo della maledizione al massimo. Non solo i 6 occhi ma anche un buff fisico e energetico.
 
+##### Soul Shift:
+Funzione del Soul Reforge che gli permette di assumere la forma alta 1,95 m con 6 braccia di Velia.
+
+
+
 #### **Armi**:
 ##### [[Yarozu]]: 
 L'unica arma dell'anima viva esistente. Forgiata da Maya.
@@ -38,7 +43,7 @@ Arma antica in grado di colpire e spezzare l'anima di qualcuno. Venne usata su R
 #### **Carattere**: 
 Inizialmente molto apatico e pigro. Molto chiuso e segretivo. Pian piano si apre con la sua famiglia. Dopo che toglie il sigillo di Autolimitazione diventa molto meno pigro e più serio.
 
-#### Maledizione/Entità antica:
+#### **Maledizione/Entità antica:**
 ##### Nome: Velia
 ##### Età: millenaria(più vecchia di Yarozu)
 ##### Abilità che da a Robert: 
@@ -48,7 +53,14 @@ Inizialmente molto apatico e pigro. Molto chiuso e segretivo. Pian piano si apre
 Molto antica e saggia. Entità molto introversa e timida
 
 ##### Aspetto:
-Alta 1,95m, ha 6 braccia disposte 2 normalmente, 2 da sopra le spalle principali, 2 dai fianchi. Ciascuna mano ha delle unchie nere e lunghe curatissime. Ha i capelli porpora e un viso quasi umano, ma bellissimo in senso quasi assoluto. Ha 6 occhi di un rosso sangue rappreso disposti come i 6 occhi che usa Robert.
+Alta 1,95m, ha 6 braccia disposte 2 normalmente, 2 da sopra le spalle principali, 2 dai fianchi. Ciascuna mano ha delle unghie nere e lunghe curatissime. Ha i capelli porpora e un viso quasi umano, ma bellissimo in senso quasi assoluto. Ha 6 occhi di un rosso sangue rappreso disposti come i 6 occhi che usa Robert.
+
+#### **Trasformazione:**
+Nome: Sanguinario
+Aspetto: tatuaggi neri, linee che si manifestano su tutto il corpo e convergono in un cerchio sulla schiena con dentro 6 occhi distorti che sanguinano. Capelli rosso sangue acceso. Occhi rosso sangue accesi con le clere nere(tutti e 6)
+Personalità: l'opposto di Robert base: giocoso, perculante, divertito, con un'assurdo divertimento nell'uccidere la gente.
+Abliltà aggiuntive: Si potenzia durante la battaglia facendo danni ai nemici o subendoli. Si potenzia anche di base lentamente solo a stare trasformato.
+
 
 #### **Collegamenti**:
 1. Famiglia adottiva:

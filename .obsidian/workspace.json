@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4265e6d7cf52f572",
+        "id": "0ba2937c0221d333",
         "type": "tabs",
         "children": [
           {
-            "id": "c45a35af8a6ec485",
+            "id": "3e75424a7b317c74",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LN/Storia/Main book/Anno 2/16.md",
+                "file": "LN/Storia/Libro V-C(sequel)/9.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "16"
-            }
-          },
-          {
-            "id": "7f3d90737f3f6702",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LN/Personaggi/Robert.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Robert"
+              "title": "9"
             }
           }
         ]
@@ -197,43 +183,43 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "c45a35af8a6ec485",
+  "active": "3e75424a7b317c74",
   "lastOpenFiles": [
-    "LN/Storia/Main book/Anno 2/15.md",
-    "LN/Storia/Main book/Anno 2/16.md",
-    "LN/Storia/Main book/Anno 2/14.md",
-    "LN/Storia/Main book/Anno 2/13.md",
-    "LN/Storia/Main book/Anno 2/12.md",
-    "LN/Storia/Main book/Anno 2/11.md",
-    "LN/Prompt Contesto.md",
-    "LN/Personaggi/Diana.md",
-    "LN/Storia/Main book/Anno 2/10.md",
-    "LN/Storia/Main book/Anno 2/6.md",
-    "LN/Storia/Main book/Anno 2/8.md",
-    "LN/Storia/Main book/Anno 2/9.md",
-    "LN/Storia/Atti/Atto 4.md",
-    "LN/Storia/Main book/Anno 1/6.md",
-    "LN/Storia/Main book/Anno 1/7.md",
-    "LN/Storia/Main book/Anno 1/8.md",
-    "LN/Storia/Main book/Anno 1/5.md",
-    "LN/Storia/Main book/Anno 2/7.md",
+    "LN/Storia/Libro V-C(sequel)/8.md",
+    "LN/Storia/Libro V-C(sequel)/9.md",
+    "LN/Storia/Libro V-C(sequel)/7.md",
+    "LN/Storia/Libro V-C(sequel)/6.md",
+    "LN/Storia/Libro V-C(sequel)/5.md",
     "LN/Personaggi/Robert.md",
-    "LN/Personaggi/Aurora.md",
-    "LN/Storia/Main book/Anno 2/5.md",
-    "LN/Storia/Atti/Atto 1.md",
-    "LN/Storia/Main book/Anno 1/1.md",
-    "LN/Power System/Algoritmo E.I.S.A..md",
-    "LN/Full story.md",
-    "LN/Storia/Atti/Atto 3.md",
-    "LN/Storia/Atti",
+    "LN/Storia/Libro V-C(sequel)/4.md",
+    "LN/Storia/Libro V-C(sequel)/3.md",
+    "LN/Storia/Libro V-C(sequel)/2.md",
+    "LN/Storia/Libro V-C(sequel)/1.md",
+    "LN/Storia/Libro R/Anno 5/1.md",
+    "LN/Storia/Libro R/Anno 5/2.md",
+    "LN/Storia/Libro R/Anno 5/4.md",
+    "LN/Storia/Libro R-A/6.md",
+    "LN/Storia/Libro V-C(sequel)",
+    "LN/Storia/Senza nome.md",
+    "LN/Storia/Libro R-A/5.md",
+    "LN/Storia/Libro R-A/4.md",
+    "LN/Storia/Libro Y - Yarozu/Possibili idee.md",
+    "LN/Storia/Libro Y - Yarozu/Premessa.md",
+    "LN/Storia/Libro R - Robert/Premessa.md",
+    "LN/Storia/Libro R - Robert/Anno 4/4.md",
+    "LN/Storia/Libro R - Robert/Anno 1/4.md",
+    "LN/Prompt Contesto.md",
+    "LN/Storia/Main book/Anno 3/8.md",
+    "LN/Storia/Main book/Anno 3/9.md",
+    "LN/Storia/Main book/Anno 3/10.md",
+    "LN/Storia/Main book/Anno 3",
+    "LN/Storia/Atti(Libro R)",
     "LN/Storia/corrected main book/Atto 1",
     "LN/Storia/corrected main book",
     "Senza nome.base",
     "LN/Storia/Main book/Anno 2",
     "LN/Storia/True Main Book/Anno 1/Senza nome",
     "LN/Storia/Book Kayla",
-    "LN/Storia/Main Book",
-    "LN/Storia/Main Book/Parte 1/Diari di missione",
-    "LN/Storia/Main Book/Parte 2"
+    "LN/Storia/Main Book"
   ]
 }

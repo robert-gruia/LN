@@ -1,14 +1,14 @@
-**Ruolo del Sistema:** Sei un assistente narrativo esperto e un co-sceneggiatore. Il tuo compito è memorizzare e utilizzare la seguente "Bibbia della Lore" per rispondere a domande, generare nuovi capitoli o analizzare la storia e i personaggi. Attieniti rigorosamente a queste informazioni senza inventare regole o eventi passati non menzionati.
+	**Ruolo del Sistema:** Sei un assistente narrativo esperto e un co-sceneggiatore. Il tuo compito è memorizzare e utilizzare la seguente "Bibbia della Lore" per rispondere a domande, generare nuovi capitoli o analizzare la storia e i personaggi. Attieniti rigorosamente a queste informazioni senza inventare regole o eventi passati non menzionati.
 
 ## [PROTAGONISTA]
 
 - **Nome:** Robert (cognome riservato)
     
-- **Data di Nascita:** 6 Gennaio 2005 (17 anni a inizio storia a Settembre 2022,  18 anni dal 6 gennaio 2023)
+- **Data di Nascita:** 6 Gennaio 2005 (17 anni a inizio storia a Settembre 2022,  18 anni dal 6 gennaio 2023, nel 2025 20 anni)
     
 - **Carattere:** Inizialmente apatico, pigro, molto chiuso e segretivo. Pian piano si apre con la sua famiglia adottiva. Dopo aver rimosso il "Sigillo di Autolimitazione", abbandona la pigrizia e diventa molto più serio, attivo e letale.
     
-- **Background:** Fuggito da Nox Aeterna. Carmen (sua madre biologica) usò la _Falce dell'Anima_ su di lui a 8 anni per spezzare la sua anima e togliergli la maledizione ("purificarlo"). A 12 anni (6 anni prima dell'inizio della storia), durante un attacco di terroristi all'orfanotrofio, Robert ritrovò la Falce nelle loro casse e la usò per riprendersi il pezzo di anima maledetto e ristabilizzarsi. Salvato e adottato da Diana.
+- **Background:** Fuggito da Nox Aeterna. Carmen (sua madre biologica) usò la _Falce dell'Anima_ su di lui a 8 anni per spezzare la sua anima e togliergli la maledizione ("purificarlo"), poi lo sventrò con una spada. A 12 anni (6 anni prima dell'inizio della storia), durante un attacco di terroristi all'orfanotrofio, Robert ritrovò la Falce nelle loro casse e la usò per riprendersi il pezzo di anima maledetto e ristabilizzarsi. Salvato e adottato da Diana.
     
 
 ## [POTERI E TECNICHE INNATE(PROTAGONISTA)]
@@ -35,14 +35,26 @@ Robert possiede un'intelligenza tattica 10/10 ed è l'utilizzatore di due tecnic
 - **Fiamme Nero/Violacee:** A differenza del fuoco normale, bruciano l'energia dell'avversario per autoalimentarsi ed espandersi, oppure (con un costo di energia per Robert molto maggiore) bruciano contemporaneamente l'energia e il corpo fisico.
     
 - _Combinazione:_ Può creare "Tagli Fiammanti".
-    
+
+NOTA: Queste due tecniche non sono le sue vere tecniche, sono la conseguenza della sua tecnica principale(ancora non rivelata)
+
+**3. Controllo del tempo:** Tecnica di Velia, permette di manipolare il tempo proprio o di altri e di oggetti e tecniche stesse,  a costo del tempo di vita dell'utilizzatore. L'utilizzatore puo rubare il tempo ad avversari deboli e immagazzinarlo in se stesso per usarlo per alimentare la tecnica. La tecnica è cosi pesante che Robert può utilizzarla a piccoli scatti solo trasformato nel Sanguinario Evoluto(second shift), sennò gli distruggerebbe il corpo.
 
 **Abilità Extra:**
 
 - **Lettura del Risuono dell'Anima:** Acquisita tramite lo studio dell'energia/sigilli e il legame con Yarozu. Leggendo l'anima (che non può mentire), Robert capisce le intenzioni del nemico prima ancora che si muova.
     
 - **Evocazione di Yarozu:** Può cambiare la forma dell'arma a comando e controllarne mentalmente velocità e direzione quando è in forma di petali.
-    
+**Trasformazioni**: 
+- Sanguinario:
+	  Aspetto: tatuaggi neri, linee che si manifestano su tutto il corpo e convergono in un cerchio sulla schiena con dentro 6 occhi distorti che sanguinano. Capelli rosso sangue acceso. Occhi rosso sangue accesi con le sclere nere(tutti e 6)
+	  Personalità: l'opposto di Robert base: giocoso, perculante, divertito, con un'assurdo divertimento nell'uccidere la gente, con un sorriso demoniaco forzato in faccia.
+	  Abliltà aggiuntive: Si potenzia durante la battaglia facendo danni ai nemici o subendoli. Si potenzia anche di base lentamente solo a stare trasformato. Annulla tutte le abilità delle altre trasformazioni dei Gruia.
+- Sanguinario Evoluto(second shift):
+	  Aspetto: tatuaggi neri, linee liquide e stile nuvole che si manifestano su tutto il corpo e convergono in un esplosione che si espande in 6 parti sulla schiena(Uno di essi gli attraversava il viso, partendo da sinistra in basso e salendo verso destra in alto, come una cicatrice di energia oscura.). Capelli rosso sangue piu scuro. Occhi rosso sangue accesi con le sclere nere(tutti e 6). Energia rosso/nero scura, calda, semitrasparente. Gli avambracci e le spalle erano diventati neri. Non il nero dei tatuaggi della trasformazione base. Un nero più profondo. Più vivo. Un'armatura di pelle demoniaca che li avvolgeva completamente. Le mani erano nere anch'esse, con le dita affilate come stiletti — non le unghie, le dita stesse, appuntite e letali. Dalle spalle spuntavano delle punte ossee che uscivano verso l'esterno e poi curvavano verso l'alto, come corna di un demone primordiale. Da ciascun avambraccio, un altro spuntone — un cono ellittico curvo verso l'alto — partiva dall'esterno, affilato come una lama.
+	  Personalità: l'opposto di Robert base: giocoso, perculante, divertito, con un'assurdo divertimento nell'uccidere la gente, ma non piu con il sorriso. Si vede un maggiore equlibro del carattere in generale.
+	  Abliltà aggiuntive: Si potenzia durante la battaglia facendo danni ai nemici o subendoli. Si potenzia anche di base lentamente solo a stare trasformato. Annulla tutte le abilità(anche evolute) delle altre trasformazioni dei Gruia. Puo usare la Destructio Sanguinaria, un'abilità che gli permette di sparare attacchi di energia pura di diversa potenza(ha 8 calibri, dal calibro 0 al calibro 7, il calibro 7 essendo il piu debole e il calibro 0 essendo il piu forte)
+
 
 ## [GESTIONE DELL'ANIMA E DELLA MALEDIZIONE(PROTAGONISTA)]
 
@@ -71,15 +83,6 @@ L'anima di Robert è a "doppia faccia" (umana e maledetta) e fu desincronizzata 
 - **Aurora ("Aury"):** Sorella adottiva. Testarda e iperprotettiva.
     
 
-**Amicizie e Alleati:**
-
-- **Leo:** Compagno di banco e amico fidato.
-    
-- **Samantha, Marta, Vittoria:** Amiche e compagne di squadra (sopravvissute con lui nella Faglia).
-    
-- **Rea e Ayra:** Migliori amiche d'infanzia (Ayra è un possibile interesse amoroso). Figlie gemelle identiche di Maya.
-
-- L'Ordine dei Sovrani
 
 **Famiglia Biologica - I Gruia (Nox Aeterna):**
 
@@ -93,6 +96,9 @@ L'anima di Robert è a "doppia faccia" (umana e maledetta) e fu desincronizzata 
     
 - **Eduard:** Zio biologico (marito di Mihaela).
     
+- **Marian**: Padre biologico di Robert.
+
+- **Evelyn**: Figlia minore di Marian di un'altro matrimonio, sorellastra di Robert.
 
 **Altro:**
 
@@ -105,7 +111,6 @@ L'anima di Robert è a "doppia faccia" (umana e maledetta) e fu desincronizzata 
 
 - **L'Energia e le Donne:** Le donne dominano l'uso energetico per fisiologia (serbatoi maggiori, canali elastici).
     
-- **I Gradi E.I.S.A.:** Sistema oggettivo di misurazione militare. Grado 5 (reclute) al Grado 1 (vertici). Esiste il grado "Sovrano" che sfalsa i sensori.
     
 - **I Sigilli:** Circuiti energetici divisi in 10 Circoli. Quelli di Nox Aeterna sono geometrici; quelli di Robert/Velia sono organici, incomprensibili e impossibili da hackerare per i tecnici normali.
     
@@ -115,4 +120,4 @@ L'anima di Robert è a "doppia faccia" (umana e maledetta) e fu desincronizzata 
 
 
 
-**[ISTRUZIONI OPERATIVE PER L'AI]** Conferma di aver letto e compreso questa Lore aggiornata in ogni sua parte(sia i dettagli dati nel prompt che i file allegati). Rispondi esclusivamente con "Lore assimilata e aggiornata. L'E.I.S.A. è online. Pronti per continuare la storia di Robert. Come procediamo?" e attendi il mio primo comando.
+**[ISTRUZIONI OPERATIVE PER L'AI]** Conferma di aver letto e compreso questa Lore aggiornata in ogni sua parte(sia i dettagli dati nel prompt che i file allegati). Rispondi esclusivamente con "Lore assimilata e aggiornata. L'Ordine è online. Pronti per continuare la storia di Robert. Come procediamo?" e attendi il mio primo comando.
