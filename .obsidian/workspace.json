@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LN/Storia/Libro R/Anno 5/61.md",
+                "file": "LN/Storia/Main Story/Libro R-A/11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "61"
+              "title": "11"
             }
           }
         ]
@@ -183,35 +183,36 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "3e75424a7b317c74",
+  "active": "bbe37f74561b5aef",
   "lastOpenFiles": [
-    "LN/Storia/Libro R/Anno 5/60.md",
-    "LN/Storia/Libro R/Anno 5/59.md",
-    "LN/Storia/Libro R/Anno 5/58.md",
-    "LN/Storia/Libro R/Anno 4/50.md",
-    "LN/Storia/Libro R/Anno 4/57.md",
-    "LN/Storia/Libro R/Anno 4/56.md",
-    "LN/Storia/Libro R/Anno 4/55.md",
-    "LN/Storia/Libro R/Anno 4/54.md",
-    "LN/Storia/Libro R/Anno 4/53.md",
-    "LN/Storia/Libro R/Anno 4/52.md",
-    "LN/Storia/Libro R/Anno 4/51.md",
-    "LN/Storia/Libro R/Anno 3/49.md",
-    "LN/Storia/Libro R/Anno 3/48.md",
-    "LN/Storia/Libro R/Anno 3/47.md",
-    "LN/Storia/Libro R/Anno 3/46.md",
-    "LN/Storia/Libro R/Anno 3/45.md",
-    "LN/Storia/Libro R/Anno 3/44.md",
-    "LN/Storia/Libro R/Anno 3/43.md",
-    "LN/Storia/Libro R/Anno 3/42.md",
-    "LN/Storia/Libro R/Anno 3/41.md",
-    "LN/Storia/Libro R/Anno 3/40.md",
-    "LN/Storia/Libro V-C(sequel)/13.md",
-    "LN/Storia/Libro V-C(sequel)/10.md",
-    "LN/Storia/Libro V-C(sequel)/8.md",
-    "LN/Storia/Libro V-C(sequel)/6.md",
-    "LN/Storia/Libro V-C(sequel)/5.md",
-    "LN/Storia/Libro V-C(sequel)",
+    "LN/Storia/Spinoffs-Sequels",
+    "LN/Storia/Main Story",
+    "LN/Storia/Spinoffs-Sequels/Libro V-C(sequel)/13.md",
+    "LN/Storia/Libro R/Anno 5/61.md",
+    "LN/Storia/Main Story/Libro R-A/11.md",
+    "LN/Storia/Main Story/Libro R-A/10.md",
+    "LN/Storia/Main Story/Libro R-A/9.md",
+    "LN/Storia/Main Story/Libro R-A/8.md",
+    "LN/Storia/Main Story/Libro R-A/7.md",
+    "LN/Storia/Main Story/Libro R-A/6.md",
+    "LN/Storia/Main Story/Libro R-A/5.md",
+    "LN/Storia/Main Story/Libro R-A/4.md",
+    "LN/Storia/Main Story/Libro R-A/3.md",
+    "LN/Storia/Main Story/Libro R-A/2.md",
+    "LN/Storia/Main Story/Libro R-A/1.md",
+    "LN/Storia/Main Story/Libro R/80.md",
+    "LN/Storia/Main Story/Libro R/79.md",
+    "LN/Storia/Main Story/Libro R/78.md",
+    "LN/Storia/Main Story/Libro R/77.md",
+    "LN/Storia/Main Story/Libro R/76.md",
+    "LN/Storia/Main Story/Libro R/75.md",
+    "LN/Storia/Main Story/Libro R/74.md",
+    "LN/Storia/Main Story/Libro R/73.md",
+    "LN/Storia/Main Story/Libro R/72.md",
+    "LN/Storia/Main Story/Libro R/71.md",
+    "LN/Storia/Main Story/Libro R/70.md",
+    "LN/Storia/Main Story/Libro R/69.md",
+    "LN/Storia/Spinoffs-Sequels/Libro V-C(sequel)",
     "LN/Storia/Main book/Anno 3",
     "LN/Storia/Atti(Libro R)",
     "LN/Storia/corrected main book/Atto 1",
@@ -219,7 +220,6 @@
     "Senza nome.base",
     "LN/Storia/Main book/Anno 2",
     "LN/Storia/True Main Book/Anno 1/Senza nome",
-    "LN/Storia/Book Kayla",
-    "LN/Storia/Main Book"
+    "LN/Storia/Book Kayla"
   ]
 }
