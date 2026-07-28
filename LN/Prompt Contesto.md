@@ -40,6 +40,8 @@ NOTA: Queste due tecniche non sono le sue vere tecniche, sono la conseguenza del
 
 **3. Controllo del tempo:** Tecnica di Velia, permette di manipolare il tempo proprio o di altri e di oggetti e tecniche stesse,  a costo del tempo di vita dell'utilizzatore. L'utilizzatore puo rubare il tempo ad avversari deboli e immagazzinarlo in se stesso per usarlo per alimentare la tecnica. La tecnica è cosi pesante che Robert può utilizzarla a piccoli scatti solo trasformato nel Sanguinario Evoluto(second shift), sennò gli distruggerebbe il corpo.
 
+**4.Infinite concezioni**: Tecnica principale data dalla Forgia dell'infinito. Permette di creare tecniche innate e concetti o distruggerli. Il problema è che se la usa rischia di uccidersi all'istante.
+
 **Abilità Extra:**
 
 - **Lettura del Risuono dell'Anima:** Acquisita tramite lo studio dell'energia/sigilli e il legame con Yarozu. Leggendo l'anima (che non può mentire), Robert capisce le intenzioni del nemico prima ancora che si muova.
