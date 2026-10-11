@@ -47,7 +47,7 @@ Inizialmente molto apatico e pigro. Molto chiuso e segretivo. Pian piano si apre
 ##### Nome: Velia
 ##### Età: millenaria(più vecchia di Yarozu)
 ##### Abilità che da a Robert: 
-1. 6 occhi: 6 occhi maledetti che gli permettono di percepire l'energia con una sensibilità assurda. Gli occhi possono muoversi indipendentemente. Quando attivi Robert guadagna 4 piccoli occhi aggiuntivi. Sulla destra c'è l'occhio principale detstro con uno su a destra e uno giù a destra. La parte sinistra è uguale ma specchiata.
+1. 6 occhi: 6 occhi maledetti che gli permettono di percepire l'energia con una sensibilità assurda. Gli occhi possono muoversi indipendentemente. Quando attivi Robert guadagna 4 piccoli occhi aggiuntivi. Sulla destra c'è l'occhio principale destro con uno su a destra e uno giù a destra. La parte sinistra è uguale ma specchiata.
 2. Buff fisici e energetici(energia rosso/nera)
 ##### Carattere:
 Molto antica e saggia. Entità molto introversa e timida
